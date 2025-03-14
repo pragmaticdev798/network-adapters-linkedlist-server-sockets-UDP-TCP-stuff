@@ -17,5 +17,6 @@ Ensure the following libraries are linked during compilation:
 For **MinGW**, use the following command to compile the code:
 ```bash
 gcc win_list.c -o win_list.exe -liphlpapi -lws2_32
+```
 
-![Capture](https://github.com/user-attachments/assets/360cce15-0f4f-4972-88b2-094391b29472)
+![Capture](https://github.com/user-attachments/assets/88d39007-b458-433f-bf97-77eac8429810)
